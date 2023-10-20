@@ -26,7 +26,7 @@ export const Footer = () => (
     <div className="CONTENT py-12 grid grid-cols-4">
       <div className="pr-6">
         <h5 className="font-display text-stone-700 text-xl mb-2">
-          Yawning Maw
+          Airbnb Clone
         </h5>
         <p className="text-stone-700">
           Discover the best restaurants in your area.
@@ -50,7 +50,7 @@ export const Footer = () => (
       </div>
     </div>
     <div className="py-4">
-      <p className="text-xs text-stone-700 text-center">©Yawning Maw 2023</p>
+      <p className="text-xs text-stone-700 text-center">©Airbnb Clone 2023</p>
     </div>
   </footer>
 );

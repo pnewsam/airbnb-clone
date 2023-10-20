@@ -49,7 +49,7 @@ export const RecognitionBadge = ({ variant }: Props) => {
         <BaseRecognitionBadge
           Icon={Trophy}
           text="Superlative"
-          tooltipContent="The highest rating a restaurant can receive from Yawning Maw."
+          tooltipContent="The highest rating a restaurant can receive from Airbnb Clone."
         />
       );
 
@@ -58,7 +58,7 @@ export const RecognitionBadge = ({ variant }: Props) => {
         <BaseRecognitionBadge
           Icon={BadgeCheck}
           text="Recommended"
-          tooltipContent="This restaurant is recommended by Yawning Maw."
+          tooltipContent="This restaurant is recommended by Airbnb Clone."
         />
       );
 

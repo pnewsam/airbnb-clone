@@ -4,8 +4,8 @@ import type { Metadata } from "next";
 import { inter, prompt } from "./fonts";
 
 export const metadata: Metadata = {
-  title: "Yawning Maw",
-  description: "The Best Restaurants in Your Area",
+  title: "Airbnb Clone",
+  description: "Clone of Airbnb UI",
 };
 
 /**

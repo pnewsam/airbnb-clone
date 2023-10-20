@@ -16,7 +16,7 @@ export const Navbar = () => {
           {/* Left Section */}
           <Link href="/">
             <span className="font-display text-stone-700 text-2xl">
-              Yawning Maw
+              Airbnb Clone
             </span>
           </Link>
         </div>
